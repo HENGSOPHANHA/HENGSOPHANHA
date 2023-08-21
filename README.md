@@ -2,7 +2,7 @@
 <h3 align="center">Currently is a Data Science 2nd-year student - AI & Machine Learning.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=HENGSOPHANHA&label=Profile%0views&color=0e75b6&style=flat" alt="ddnickkkk" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=HENGSOPHANHA&label=Profile0views&color=0e75b6&style=flat" alt="ddnickkkk" /> </p>
 
 - 🔭 I’m currently working on Regression Project.
 
