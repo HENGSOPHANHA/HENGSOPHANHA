@@ -1,5 +1,5 @@
 <h1 align="center">Heyoo 👋, I'm PHANHA.</h1>
-<h3 align="center">Currently is a Data Science 2nd-year student - AI & Machine Learning.</h3>
+<h3 align="center">Currently is a Data Science 3nd-year student - AI & Machine Learning.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HENGSOPHANHA&label=Profile_views&color=0e75b6&style=flat" alt="ddnickkkk" /> </p>
@@ -31,6 +31,9 @@
     </a>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+    </a>
+    <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-original.svg" alt="java" width="40" height="40"/>
     </a>
 </p>
 
