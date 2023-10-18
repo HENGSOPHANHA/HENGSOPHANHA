@@ -35,6 +35,9 @@
     <a href="https://dev.java/" target="_blank" rel="noreferrer">
         <img src="https://avatars3.githubusercontent.com/u/18692364?s=400&v=4" alt="java" width="40" height="40"/>
     </a>
+      <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a>
 </p>
 
 
