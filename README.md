@@ -41,6 +41,9 @@
     <a href="https://scikit-learn.org/stable/](https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png" alt="scikit-learn" width="40" height="40"/>
 </a>
+    <a href="https://scikit-learn.org/stable/](https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png](https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png](https://www.w3.org/Style/CSS/w3c-css-logo-v2.png" alt="scikit-learn" width="40" height="40"/>
+</a>
 </p>
 
 
