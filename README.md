@@ -50,11 +50,8 @@
       <a href="https://www.dart.dev" target="_blank" rel="noreferrer">
     <img src="https://cdn-images-1.medium.com/v2/resize:fit:1200/1*knHF_qpxdtS8h0Z8EeqowA.png" alt="dart" width="40" height="40"/>
   </a>
-     <a href="https://your-heroku-app-address.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/your-username/your-repo-name/main/heroku-image.png" alt="dart" width="40" height="40"/>
-</a>
-    <a href="https://your-streamlit-app-address.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/your-username/your-repo-name/main/streamlit-image.png" alt="dart" width="40" height="40"/>
+     <a href="https://www.heroku.com/platform" target="_blank" rel="noreferrer">
+    <img src="https://w7.pngwing.com/pngs/629/503/png-transparent-heroku-plain-wordmark-logo-icon-thumbnail.png" alt="Heroku" width="40" height="40"/>
 </a>
 </p>
 
