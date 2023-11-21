@@ -51,7 +51,7 @@
     <img src="https://cdn-images-1.medium.com/v2/resize:fit:1200/1*knHF_qpxdtS8h0Z8EeqowA.png" alt="dart" width="40" height="40"/>
   </a>
      <a href="https://www.heroku.com/platform" target="_blank" rel="noreferrer">
-    <img src="https://e7.pngegg.com/pngimages/855/935/png-clipart-heroku-logo-heroku-logo-icons-logos-emojis-tech-companies.png" width="40" height="40"/>
+    <img src="https://brandslogos.com/wp-content/uploads/thumbs/heroku-logo-vector.svg" width="40" height="40"/>
 </a>
 </p>
 
