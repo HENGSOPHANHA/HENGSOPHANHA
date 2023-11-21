@@ -51,7 +51,7 @@
     <img src="https://cdn-images-1.medium.com/v2/resize:fit:1200/1*knHF_qpxdtS8h0Z8EeqowA.png" alt="dart" width="40" height="40"/>
   </a>
      <a href="https://www.heroku.com/platform" target="_blank" rel="noreferrer">
-    <img src="https://w7.pngwing.com/pngs/630/486/png-transparent-heroku-hd-logo.png" alt="Heroku" width="40" height="40"/>
+    <img src="https://www.joeyoungblood.com/wp-content/uploads/2016/03/heroku-logo-1.png" width="40" height="40"/>
 </a>
 </p>
 
