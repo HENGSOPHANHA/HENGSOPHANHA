@@ -54,7 +54,7 @@
     <img src="https://brandslogos.com/wp-content/uploads/thumbs/heroku-logo-vector.svg" width="40" height="40"/>
 </a>
     <a href="https://streamlit.io/" target="_blank" rel="noreferrer">
-    <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.svg" width="40" height="40"/>
+    <img src="https://seeklogo.com/images/S/streamlit-logo-1A3B208AE4-seeklogo.com.png" width="40" height="40"/>
 </a>
 </p>
 
