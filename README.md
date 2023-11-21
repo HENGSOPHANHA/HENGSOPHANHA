@@ -53,6 +53,9 @@
      <a href="https://www.heroku.com/platform" target="_blank" rel="noreferrer">
     <img src="https://brandslogos.com/wp-content/uploads/thumbs/heroku-logo-vector.svg" width="40" height="40"/>
 </a>
+    <a href="https://streamlit.io/" target="_blank" rel="noreferrer">
+    <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.svg" width="40" height="40"/>
+</a>
 </p>
 
 
